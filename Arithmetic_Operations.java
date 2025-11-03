@@ -1,4 +1,4 @@
-Perform all arithmetic operations on given two numbers num1,num2.
+//Perform all arithmetic operations on given two numbers num1,num2.
 
 import java.util.Scanner;
 public class Arith {
