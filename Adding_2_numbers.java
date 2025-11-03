@@ -1,4 +1,4 @@
-Take two numbers num1 and num2 as input from stdin and print the sum of those two numbers.
+//Take two numbers num1 and num2 as input from stdin and print the sum of those two numbers.
 
 import java.util.Scanner;
 public class add
