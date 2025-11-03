@@ -1,0 +1,14 @@
+//Take two numbers num1 and num2 as input from stdin and you need to find modulus of them.
+
+import java.util.Scanner;
+public class mod
+{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        int x=sc.nextInt();
+        int y=sc.nextInt();
+        System.out.println(x%y);
+        sc.close();
+    }
+}
