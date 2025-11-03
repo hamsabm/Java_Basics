@@ -1,4 +1,4 @@
-Take two numbers num1 and num2 as input and you need to multiply them.
+//Take two numbers num1 and num2 as input and you need to multiply them.
 
 import java.util.Scanner;
 public class Multiplication
